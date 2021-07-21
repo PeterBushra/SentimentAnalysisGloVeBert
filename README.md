@@ -11,3 +11,4 @@ Sentiment Analysis Using GloVe and Bert
   - Base Model and Custom Layers
     -  Feature Extracting  
     -  Fine Tuning
+* Custom Training Loop
